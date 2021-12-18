@@ -11,3 +11,19 @@ This repository contains the RentSlower.jar file, download and open this file, t
 ## Requirements
 - OpenJDK 11
 - MySQL (Username: test, Password: testpass123)
+
+## Preview
+Start Page:
+![Start](images/Start.png)
+
+Main Page:
+![Main](images/Main.png)
+
+Renter Page:
+![Renter](images/Renter.png)
+
+Landlord Page:
+![Landlord](images/Landlord.png)
+
+Manager Page:
+![Manager](images/Manager.png)
