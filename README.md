@@ -4,7 +4,7 @@ This is a class project for ENSF 480 (Principles of Software Design) at the Univ
 ## How do I run the application?
 Firstly, make sure you have MySQL DBMS installed on your machine
 
-Secondly, create a MySQL user with **Username: test** and **Password: testpass123**. Grant all privileges to this user (trust me :pleading_face:). Then create a MySQL database using the provided .sql file.
+Secondly, create a MySQL user with **Username: test** and **Password: testpass123**. Grant all privileges to this user. Then create a MySQL database using the provided .sql file.
 
 This repository contains the RentSlower.jar file, download and open this file, the application should be up and running! :partying_face:
 
